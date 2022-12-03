@@ -18,7 +18,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portland, OR.
+I am a Full-Stack Developer from Portland, OR.
 - :telescope: I’m a full-time student at the coding bootcamp Epicodus where I build and contribute frontend and backend for web applications.
 
 - :seedling: I'm currently learning functional Javascript and React.
