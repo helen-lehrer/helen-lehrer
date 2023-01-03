@@ -21,7 +21,7 @@
 I am a Full-Stack Developer from Portland, OR.
 - :telescope: I’m a full-time student at the coding bootcamp Epicodus where I build and contribute frontend and backend for web applications.
 
-- :seedling: I'm currently learning functional Javascript, React, SCCS, Framer Motion, and Sanity.io.
+- :seedling: I'm currently learning React.
 
 - :zap: In my free time, I solve problems on Leetcode, read tech articles, and experiment with new libraries.
 
