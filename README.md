@@ -21,11 +21,9 @@ My full name is <em>Helen Trudi Mellow Lehrer</em>, which makes my initials **HT
 
 - :earth_americas: Based in Portland, OR.
 
-- :telescope: I’m a full-time student at the coding bootcamp Epicodus where I build web applications from the ground up in a pair-programming and agile dev team format.
+- :telescope: Full-time student at the coding bootcamp Epicodus where I build web applications from the ground up in a pair-programming and agile dev team format.
 
 - :seedling: I'm currently learning React.
-
-- :zap: In my free time, I solve problems on Leetcode, read tech articles, and experiment with new libraries.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helen-lehrer/)
 
