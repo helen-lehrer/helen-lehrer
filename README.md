@@ -15,7 +15,6 @@
   <img src="https://media.giphy.com/media/RjeDtSXMWo5DL3RmlU/giphy.gif" width="280" height="160"/>
 </div>
 -->
----
 
 ### :woman_technologist: About Me :
 My full name is <em>Helen Trudi Mellow Lehrer</em>, which makes my initials **HTML**! So basically, I was born to be a developer!
