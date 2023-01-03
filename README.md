@@ -18,8 +18,11 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full-Stack Developer from Portland, OR.
-- :telescope: I’m a full-time student at the coding bootcamp Epicodus where I build and contribute frontend and backend for web applications.
+My full name is <em>Helen Trudi Mellow Lehrer</em>, which makes my initials **HTML**! So basically, I was born to be a developer!
+
+- :earth_americas: Based in Portland, OR.
+
+- :telescope: I’m a full-time student at the coding bootcamp Epicodus where I build web applications from the ground up in a pair-programming and agile dev team format.
 
 - :seedling: I'm currently learning React.
 
