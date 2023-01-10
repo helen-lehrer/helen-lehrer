@@ -17,7 +17,7 @@
 -->
 
 ### :woman_technologist: About Me :
-My full name is <em>Helen Trudi Mellow Lehrer</em>, which makes my initials **HTML**! So basically, I was born to be a developer!
+My full name is <em>Helen Trudi Mellow Lehrer</em>, which makes my initials **HTML**. So basically, I was born to be a developer!
 
 - :earth_americas: Based in Portland, OR.
 
