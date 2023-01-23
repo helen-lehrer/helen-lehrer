@@ -23,7 +23,7 @@ My full name is <em>Helen Trudi Mellow Lehrer</em>, which makes my initials **HT
 
 - :telescope: Full-time student at the coding bootcamp Epicodus where I build web applications from the ground up in a pair-programming and agile dev team format.
 
-- :seedling: I'm currently learning React.
+- :seedling: I'm currently learning PostgreSQL, Express, Prisma, and React.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helen-lehrer/)
 
