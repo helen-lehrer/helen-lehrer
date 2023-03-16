@@ -17,13 +17,13 @@
 -->
 
 ### :woman_technologist: About Me :
-My full name is <em>Helen Trudi Mellow Lehrer</em>, which makes my initials **HTML**. So, I was born to be a developer!
+My name is <em>Helen Trudi Mellow Lehrer</em>, which makes my initials **HTML**. So, I was born to be a developer!
 
 - :earth_americas: Based in Portland, OR.
 
-- :telescope: Full-time student at the coding bootcamp Epicodus where I build web applications from the ground up in a pair-programming and agile dev team format.
+- :telescope: Actively searching for a full-time Software Engineering position.
 
-- :seedling: I'm currently learning PostgreSQL, Express, Prisma, and React.
+- :seedling: I'm currently learning the PERN stack: PostgreSQL, Express, React, and Prisma.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helen-lehrer/)
 
