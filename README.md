@@ -23,7 +23,7 @@ My name is <em>Helen Trudi Mellow Lehrer</em>, which makes my initials **HTML**.
 
 - :telescope: Actively searching for a full-time Software Engineering position.
 
-- :seedling: I'm currently learning the PERN stack: PostgreSQL, Express, React, and Prisma.
+- :seedling: I'm currently learning the Next.js framework.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helen-lehrer/)
 
