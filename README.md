@@ -21,9 +21,9 @@ My name is <em>Helen Trudi Mellow Lehrer</em>, which makes my initials **HTML**.
 
 - :earth_americas: Based in Portland, OR.
 
-- :telescope: Actively searching for a full-time Software Engineering position.
+- :telescope: Full-Stack .NET/React Software Engineer for Symbeo, a SAAS AP Automation Healthcare company.
 
-- :seedling: I'm currently learning the d3.js library and React Native. I'm contributing a data visualization feature for the Live Music Project and building out the UI for an iOS app.  
+- :seedling: In my free time, I'm exploring the d3.js library. I'm a volunteer contributor for the Live Music Project and am working on a data visualization feature.  
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helen-lehrer/)
 
